@@ -32,12 +32,14 @@ body > div,
 .app {
   height: 100%;
   width: 100%;
+  background-color: #add7f6;
 }
 
 .background-blue {
   background-color: #add7f6;
   width: auto;
   height: auto;
+  size: auto;
 }
 
 .background-blue-ex {
